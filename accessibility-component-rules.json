@@ -1,0 +1,97 @@
+{
+  "INPUT": {
+    "components": [
+      "WUTextField",
+      "WUCodeField",
+      "WUTextArea",
+      "WUPhoneNumber",
+      "WUFormatTextField",
+      "TextInput",
+      "WUCheckbox",
+      "WUToggle",
+      "WUSelector",
+      "WULanguagePicker",
+      "WUCurrencySelector"
+    ],
+    "props": [
+      "accessible",
+      "accessibilityLabel",
+      "accessibilityHint"
+    ]
+  },
+  "BUTTON": {
+    "components": [
+      "WUButton",
+      "WUStickyButton",
+      "Button",
+      "Pressable",
+      "TouchableOpacity",
+      "TouchableWithoutFeedback",
+      "WUTouchableOpacity",
+      "WUButtonCompact",
+      "WUButtonSocial",
+      "WUChip",
+      "WUFilterChip",
+      "WURadioButton",
+      "WURadioGroup",
+      "WUSegmentedButton",
+      "WUInlineToggle",
+      "WUNavItem"
+    ],
+    "props": [
+      "accessibilityLabel",
+      "accessibilityRole",
+      "accessibilityHint"
+    ]
+  },
+  "DROPDOWN": {
+    "components": [
+      "WUDropDown",
+      "WUInlineDropdown",
+      "WUDropdownCard",
+      "WUDropDownSheet",
+      "WUSheet",
+      "WUListItem",
+      "WUExpander",
+      "WUTab"
+    ],
+    "props": [
+      "accessibilityLabel",
+      "accessibilityRole",
+      "accessibilityHint"
+    ]
+  },
+  "TEXT": {
+    "components": [
+      "WUText",
+      "Text",
+      "WUPhoneNumber",
+      "WUStrikeThroughText",
+      "WUValue",
+      "WUSectionHeader",
+      "WURichText"
+    ],
+    "props": [
+      "accessibilityLabel"
+    ]
+  },
+  "IMAGE": {
+    "components": [
+      "Image",
+      "WUIcon",
+      "WUFlag",
+      "WUIllustration",
+      "WUGlyph",
+      "WUPictogram",
+      "WUEmojiPictogram",
+      "WUEmoji",
+      "WUBrandLogo",
+      "WUVideo",
+      "WUCardVisualization",
+      "WUMapPin"
+    ],
+    "props": [
+      "accessibilityLabel"
+    ]
+  }
+}
